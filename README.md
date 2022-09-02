@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,html
 - 💞️ I’m looking to collaborate on pathu
 
-
+Some information about Web development 👇👇
 <!---
 Web development is the work involved 
 in developing a website for the Internet (World Wide Web) 
